@@ -4,7 +4,7 @@
 
 - **源码仓库**：[Aragamiz/mixflipmod-os4](https://github.com/Aragamiz/mixflipmod-os4)
 - **安装提示**：使用本派生版前请先卸载原版 `cn.zeldati.mixflipmod`，避免 Hook 冲突；更新后请使用 `--no-incremental` 安装并按需重启。
-- **Release Tag 格式**：`9-1.0.12-flip2(re)`（`[versionCode]-[versionName]`）
+- **Release Tag 格式**：`10-1.0.13-flip2(re)`（`[versionCode]-[versionName]`）
 
 ## 主要增强功能
 
